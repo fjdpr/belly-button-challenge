@@ -1,0 +1,45 @@
+/* Body */
+body {
+    background-color: #E9EFEC;
+    font-family: Arial, sans-serif;
+    color: #343a40;
+}
+
+
+
+/* Container */
+/* Container Margin Top */
+.container {
+    margin-top: 20px;
+}
+
+
+
+/* Cards */
+/* Styles for Card Header */
+.card-header {
+    background-color: #6A9C89;
+    color: #fff;
+}
+
+
+
+/* Select Elements */
+/* Styles for Select Elements */
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #16423C;
+    border-radius: 5px;
+}
+
+
+
+/* Specific IDs Margin Top */
+/* Margin Top for Specific IDs */
+#bar, #bubble {
+    margin-top: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
